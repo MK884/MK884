@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MK884/main/github-header-image.png)
+![Header](https://raw.githubusercontent.com/MK884/MK884/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Merchant Khalid</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
