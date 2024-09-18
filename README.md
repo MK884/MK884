@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Merchant Khalid</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **JavaScript, Typescript, ReactJs and Django for backend**
+- 🌱 I’m currently learning **JavaScript, Typescript, ReactJs and React-native**
 
 - 📫 How to reach me **marchantkhalid7810@gmail.com**
 
